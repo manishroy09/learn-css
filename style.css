@@ -1,0 +1,14 @@
+body{
+    background-color: pink ;
+}
+.student{
+    color: blue;
+    text-align: center;
+    font-size: 40px;
+    text-decoration:  underline;
+    text-decoration-style: wavy;
+}
+#address{
+    background-color: rgb(18, 138, 165);
+    text-decoration: overline;
+}

@@ -1,0 +1,34 @@
+#head1{
+    color: blue;
+    font-size: 100px;
+    text-align: center;
+    background-color: yellow;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+.para{
+    font-weight: bold;
+}
+#head2{
+    text-shadow: -4px -3px 5px blueviolet;
+    text-transform: capitalize;
+    text-align: center;
+
+}
+#head2 span{
+    background-color: blueviolet;
+}
+
+.container{
+    background-color: lightcoral;
+}
+.container h1{
+    background-color: bisque;
+
+}
+.container button{
+    background-color: lime;
+    color: azure;
+}

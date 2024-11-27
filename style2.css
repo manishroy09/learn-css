@@ -1,0 +1,16 @@
+.head1{
+    
+    font-family: "Bokor", system-ui;
+}
+.head2{
+    font-family: "Jaro", sans-serif;
+}
+.head3{
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+}
+.wrapper{
+    background-color: aqua;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
