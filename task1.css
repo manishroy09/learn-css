@@ -1,0 +1,32 @@
+.main_container{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 40px;
+}
+.ch2{
+    margin-top: 40px;
+    margin-left: 20px;
+    padding-left: 20px;
+    
+}
+.ch2 button{
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    font-family: "Sora", sans-serif;
+} 
+.ch2 input{
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+    font-family: "Oxygen", sans-serif;
+    
+}
+.ch2 p{
+    font-family: "Maven Pro", sans-serif;
+}
+.ch2 h1{
+    font-family: "Archivo Black", sans-serif;
+    
+
+}
