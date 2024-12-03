@@ -1,0 +1,24 @@
+
+header{
+    background-image: url(4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.navbar ul{
+    display: flex;
+    gap: 40px;
+}
+.hero{
+    display: flex;
+}
+.ic{
+    color: blueviolet;
+    font-size: 40px;
+    padding: 12px;
+    background-color: yellow;
+    border-radius: 30px;
+}
