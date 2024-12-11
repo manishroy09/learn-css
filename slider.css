@@ -1,0 +1,27 @@
+.slider{
+    height: 1000px;
+    background-image: url(image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation-name: slider;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@keyframes slider {
+    0%{
+        background-image: url(4.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    50%{
+        background-image: url(image.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    100%{
+        background-image: url(image2.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
