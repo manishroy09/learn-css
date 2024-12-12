@@ -1,0 +1,21 @@
+body{
+    background-color: red;
+}
+.head{
+    font-size: 40px;
+}
+
+@media screen and (max-width: 600px) and (min-width:400px) {
+    body{
+        background-color: green;
+    }
+    .head{
+        font-size: 30px;
+        color: yellow;
+    }
+}
+ @media  screen and (max-width:400px) {
+    body{
+        background-color: aqua;
+    }
+ }
