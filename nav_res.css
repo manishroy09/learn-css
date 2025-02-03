@@ -14,7 +14,7 @@
     border-radius: 50%;
 }
 #check{
-    //display: none;
+    display: none;
 }
 .navbar label{
     display: none;
