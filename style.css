@@ -12,3 +12,7 @@ body{
     background-color: rgb(18, 138, 165);
     text-decoration: overline;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
