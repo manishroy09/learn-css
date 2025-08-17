@@ -6,15 +6,18 @@
     font-size: 80px;
     color: red;
     font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
 }
 
 p::first-line{
     text-decoration: underline;
-    color: yellow;
+    text-decoration-style: dashed;
+    color: rgb(10, 69, 31);
 }
 
 .head1::selection{
-    background-color: red;
+    background: linear-gradient(45deg, #0fd046, #ee0979);
+    /* background-color: rgb(186, 48, 126); */
     color: aliceblue;
 }
 
